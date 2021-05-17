@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "filesystem": "c",
+        "ssp2.h": "c",
+        "lpc_peripherals.h": "c",
+        "mp3_decoder.h": "c",
+        "mp3_ssp0.h": "c",
+        "gpio_lab.h": "c",
+        "mp3_oled.h": "c",
+        "mp3_isr.h": "c",
+        "spi_lab.h": "c",
+        "startup.h": "c"
+    }
+}
